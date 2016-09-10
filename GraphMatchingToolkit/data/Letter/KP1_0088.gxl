@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl xmlns:xlink="http://www.w3.org/1999/xlink">
+<graph id="AP1_0050" edgeids="false" edgemode="undirected">
+<node id="_0"><attr name="x"><float>0.389727</float></attr></node>
+<node id="_1"><attr name="x"><float>0.96</float></attr></node>
+<node id="_2"><attr name="x"><float>3.12</float></attr></node>
+<node id="_3"><attr name="x"><float>0.944254</float></attr></node>
+<node id="_4"><attr name="x"><float>1.68218</float></attr></node>
+<edge from="_1" to="_2"><attr name="valence"><int>1</int></attr></edge>
+<edge from="_1" to="_3"><attr name="valence"><int>1</int></attr></edge>
+<edge from="_2" to="_4"><attr name="valence"><int>2</int></attr></edge>
+</graph>
+</gxl>
+
+
+  
+  

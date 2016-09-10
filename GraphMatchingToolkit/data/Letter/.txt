@@ -1,0 +1,18 @@
+#*** The properties of the matching ***
+#Source graph set:	./data/Letter/test.xml (1 graphs)
+#Target graph set:	./data/Letter/B.xml (1 graphs)
+#Graph edit distance procedure:	AStar
+#Edge mode:		undirected
+#Cost for node deletion/insertion:	1.0
+#Cost for edge deletion/insertion:	1.0
+#Alpha weighting factor between node and edge costs:	0.5
+#Node attribute 0:	x;	Cost function:	discrete;	mu = 0 nu = 1;	Soft factor:	1.0
+#Edge Attribute 0:	valence;	Cost Function:	discrete;	Soft Factor:	1.0
+#Individual node costs are added
+#Individual edge costs are added
+#(Combined node cost)^(1/2.0)
+#(Combined edge cost)^(1/1.0)
+#Complete Matching Time: 19
+#Number of Fails: 0
+#*** The distance matrix ***
+0.00000
